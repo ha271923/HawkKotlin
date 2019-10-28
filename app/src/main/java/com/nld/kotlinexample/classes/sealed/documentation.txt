@@ -1,0 +1,1 @@
+https://kotlinlang.org/docs/reference/sealed-com.nld.kotlinexample.classes.html
