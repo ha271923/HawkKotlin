@@ -1,1 +1,1 @@
-https://kotlinlang.org/docs/reference/data-com.nld.kotlinexample.classes.html
+https://kotlinlang.org/docs/reference/data-classes.html

@@ -1,1 +1,1 @@
-https://kotlinlang.org/docs/reference/com.nld.kotlinexample.properties.html
+https://kotlinlang.org/docs/reference/properties.html

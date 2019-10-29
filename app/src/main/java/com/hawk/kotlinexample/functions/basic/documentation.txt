@@ -1,1 +1,1 @@
-https://kotlinlang.org/docs/reference/com.nld.kotlinexample.functions.html
+https://kotlinlang.org/docs/reference/functions.html
