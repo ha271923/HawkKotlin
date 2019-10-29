@@ -1,5 +1,6 @@
 package com.hawk.kotlinexample.classes.basic
 
+// Kotlin 的 Class 如不特別標注，其內定是 final 的，除非用 open「打開」它，才可以被繼承。
 class AndroidDev constructor(name: String) {
     val name = name
 
